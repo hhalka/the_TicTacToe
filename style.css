@@ -1,0 +1,36 @@
+#main {
+    height: 100%;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+td {
+    height: 200px;
+    width: 200px;
+    padding: 0;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+
+}
+
+table {
+    position: absolute;
+    border-collapse: collapse;
+    top:236px;
+    left: 650px;
+}
+
+#turn{
+    color: red;
+}
